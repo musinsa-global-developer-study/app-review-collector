@@ -1,4 +1,4 @@
-package com.mss.review.domain;
+package com.mss.review.collection.domain;
 
 import java.time.LocalDateTime;
 
